@@ -1,4 +1,4 @@
-## This readme was written for "microservices-with-RDS-MySQL-DB" article
+## This readme was written for the "Working with Microservices-1: Running a Java app that consists of 10 Microservices on a Development server" article
 
 # Distributed version of the Spring PetClinic Sample Application built with Spring Cloud 
 
